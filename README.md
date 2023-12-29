@@ -1,2 +1,2 @@
-This is all web portal screens
+All web portal screens
 # montor_calling
